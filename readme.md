@@ -1,0 +1,1 @@
+The purpose of this project is to practice writing the basic building blocks of a website. I've established a fictional business called Sunnies R Us and sell three products through my website. The website has three core pages that the user can navigate through: the home page, the products page, and the about us page. 
